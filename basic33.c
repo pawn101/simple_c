@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <limits.h>
 
 void readinput(int vec[5])
 {
@@ -16,7 +17,7 @@ int main(void)
 {
         int k = 0;
         int vec[5] = {0,0,0,0,0};
-        int max = 0;
+        int max = INT_MIN;
         int k_max = 0;
 
         readinput(vec);
