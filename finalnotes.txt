@@ -1,0 +1,15 @@
+Final notes on the Basic exercises in C
+
+I had fun. This is the most important value of these exercises. I was
+able to concentrate on problem solving with simple problems for the
+first time in my life. I am forever grateful for this.
+
+However, many of the exercises were poorly written. Sometimes I could
+not understand the text of the exercise, at other times the sample data
+contradicted the text. In the future I am going to use better sources.
+
+So, to weigh the pros and cons of this adventure: It was great and I not
+only began the beautiful way of systematic problem solving and
+programming but also learnt to appreciate the effort put into problem
+making and selecting suitable problem sources. Thanks for the
+opportunity!
