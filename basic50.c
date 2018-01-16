@@ -19,7 +19,7 @@ int main(void)
         readinput(vec);
         for (k = 0; k < 5; k++) {
                 if (vec[k] < 5) {
-                        printf("n[%d] = %d", k, vec[k]);
+                        printf("A[%d] = %d\n", k, vec[k]);
                 }
         }
         return 0;
